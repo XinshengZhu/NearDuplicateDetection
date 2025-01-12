@@ -1,8 +1,4 @@
-# README: Scalable Near-Duplicate Detection for Web Mining
-
-This is Final Project for CS-GY 6913, Web Search Engines.
-
-Group Members: Xinsheng Zhu (xz4344)
+# Scalable Near-Duplicate Detection for Web Mining
 
 ## Overview
 
